@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "CarPricePrediction",
+			"path": "CarPricePrediction"
+		}
+	],
+	"settings": {}
+}
